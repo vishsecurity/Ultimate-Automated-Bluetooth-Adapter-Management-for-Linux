@@ -104,4 +104,3 @@ sudo udevadm monitor
 
 Vishal Chaudhary
 
-Do you want me to do that next?
